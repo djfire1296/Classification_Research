@@ -19,7 +19,8 @@
     5. Calculate relation.
 
 ## Data
-- [UCI Machine Learning Repository / Zoo.csv](http://archive.ics.uci.edu/ml/datasets/Zoo )
+- From [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Zoo)
+- [zoo_data.csv](https://github.com/djfire1296/Classification_Research/blob/master/zoo_data.csv)
 
 ## Data Description
 - [zoo_name.txt](https://github.com/djfire1296/Classification_Research/blob/master/zoo_name.txt)
